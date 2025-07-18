@@ -1,28 +1,67 @@
 <h1 align="center">Hi 👋, I'm Ama</h1>
-<h3 align="center">3rd Year Software Engineering Student | 💻 Passionate Full-Stack Developer | 🌧️ Coffee + Code Lover</h3>
+<h3 align="center">🎓 3rd Year Software Engineering Student | 💻 Passionate Full-Stack Developer | 🌧️ Coffee + Code Lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="amaliyanage" /> </p>
 
+<a target="_blank" align="center">
+  <img align="right" height="250" width="300" alt="Coding GIF" src="https://raw.githubusercontent.com/AmaLiyanage/AmaLiyanage/main/githubGif.gif">
+</a>
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **3rd year Software Engineering student** at **SLIIT**
-- 💻 I’m passionate about **Full-Stack Development** ,I enjoy building seamless, responsive frontends and robust, scalable backends
-- 🌟 I love working on clean UI/UX, REST APIs, and modern web applications
-- ⚡ Fun fact: I code best on rainy days with coffee by my side ☕🌧️
+- 🎓 I'm a **3rd year Software Engineering student** at **SLIIT**  
+- 💻 Passionate about **Full-Stack Development**  
+- 🌟 Love building clean UI/UX, REST APIs, and modern web apps  
+- ⚡ Fun fact: I code best on rainy days with coffee ☕🌧️  
+- 📫 Reach me: **nethmisanduama222@gmail.com**
 
----
-<br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
+  
+<details>
+  <summary>📈  Profile Views</summary>
+<div>
+<samp>
+ <p align="center">
+  <a href="github.com/amaliyanage" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=AmaLiyanage&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+ </samp>
+</div>
+</details>
 
-- 📫 How to reach me **nethmisanduama222@gmail.com**
-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Git Activeness ....***
+<details> 
+  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaLiyanage&theme=gruvbox&layout=compact&hide_border=true"
+          alt="amaliyanage :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaLiyanage&layout=compact&hide_border=true"
+          alt="amaliyanage :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaLiyanage&layout=compact&hide_border=true"
+          alt="amaliyanage :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AmaLiyanage&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
 <hr>
 
